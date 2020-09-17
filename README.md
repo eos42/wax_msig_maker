@@ -18,3 +18,7 @@ Example:
 The Telegram bot is not currently intsalled in the WAX guilds group. As soon as this is done it should start informing BPs for upgrades
 
 BP Upgrade MSIGs won't work until the `eosio` keys are handed over from `admin.wax` to `eosio.prods`
+
+For developers: You can generate your own telegram bot and get the API and chat ID from using it
+
+For BPs: You can get the telegram bot API key by asking @PhillipHamnett on telegram
